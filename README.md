@@ -4,8 +4,8 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 
 ---
 
-## 📈 ETL API Pipeline
-### [[link repository](https://github.com/mhndra/ETL-API-Pipeline)]
+## 📈 Getting Started with Apache Airflow
+### [[link repository](https://github.com/mhndra/Getting-Started-with-Apache-Airflow)]
 | Penyelenggara  | Teknologi  | Deskripsi Singkat   |
 |----------------|------------|---------------------|
 | [DataCamp](https://www.datacamp.com/)  | Visual Studio Code, Git, Python, Apache Airflow 3.0, SQLite, PostgreSQL, Docker, Astro CLI  | ETL (Extract, Transform, Load) dapat membantu analis keuangan, pengembang sistem trading, maupun pelaku bisnis dalam mengambil data saham dari sumber eksternal, membersihkannya, dan menyimpannya ke dalam sistem penyimpanan terpusat. Kemudian, data saham ini dapat dilakukan analisis lebih lanjut. Dalam proyek ini, saya membangun sebuah ETL pipeline untuk mengambil data saham harian dari Polygon API (sumber data eksternal), melakukan transformasi data sesuai dengan format penulisan data yang memiliki standar, dan memuat hasil transformasi ke dalam SQLite dan PostgreSQL.  |
