@@ -1,4 +1,4 @@
-# Portofolio Proyek Mahendra
+# Portofolio Proyek Mahendra N. W. A
 
 Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dalam bidang data selama mengikuti kegiatan pelatihan.
 
