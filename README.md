@@ -4,6 +4,14 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 
 ---
 
+## Invoice Reconciliation
+### [[link repository](https://github.com/mhndra/Invoice-Reconciliation)]
+| Penyelenggara  | Teknologi  | Business Problem   |
+|----------------|------------|---------------------|
+| -  | Microsoft Fabric, Azure AI Document Intelligence Studio, Azure DevOps, PySpark  | Seorang klien memulai meninjau daftar rincian barang yang telah dibeli untuk mendapatkan informasi terkait pengeluaran setiap bulannya. Sejak bulan April tahun 2025, klien telah mengumpulkan daftar rincian pembelian barang, tetapi pemrosesan menjadi laporan pengeluarannya dilakukan secara manual dikarenakan daftar rincian pembelian barang masih berbentuk file berekstensi .pdf. Oleh karena itu, seorang teknisi data diminta membuat alur data untuk proses pengumpulan datanya agar siap digunakan sebagai laporan pengeluaran setiap bulannya. Maka dari itu, proyek ini akan membuat alur data agar mempermudah klien dalam mengumpulkan data dari daftar rincian pembelian barang setiap bulan.  |
+
+---
+
 ## Retail Supply Chain
 ### [[link repository](https://github.com/mhndra/Retail-Supply-Chain)]
 | Penyelenggara  | Teknologi  | Business Problem   |
@@ -24,7 +32,7 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 ### [[link repository](https://github.com/mhndra/Customer-Churn)]
 | Penyelenggara  | Teknologi  | Business Problem   |
 |----------------|------------|---------------------|
-| [DataCamp](https://www.datacamp.com/)  | Microsoft Fabric, Azure DevOps, Power BI, Pyspark  | Tim analis diminta sebuah perusahaan telekomunikasi untuk meninjau data survey konsumen yang berhenti berlangganan dan data konsumen yang pernah berlangganan. Tujuannya untuk meningkatkan layanan yang ditawarkan perusahaan kepada konsumen. Layanan tersebut berupa paket langganan data dan panggilan dalam negeri maupun internasional. Setelah melakukan peninjauan, ditemukan bahwa tidak sedikit konsumen yang berhenti berlangganan dengan alasan yang beragam. Maka dari itu, tim analis akan melakukan analisis lebih lanjut untuk mengetahui penyebab konsumen berhenti berlangganan. Hasil analisis ini akan menjadi pertimbangan perusahaan dalam meningkatkan layanannya. Dalam membantu analisis spesifik ini, pada tahap awal analisis diperlukan metrik yang menilai seberapa besar jumlah konsumen yang berhenti berlangganan. Metrik tersebut adalah customer churn, yaitu persentase konsumen yang berhenti berlangganan dari total keseluruhan konsumen yang pernah berlangganan.  |
+| [DataCamp](https://www.datacamp.com/)  | Microsoft Fabric, Azure DevOps, Power BI, PySpark  | Tim analis diminta sebuah perusahaan telekomunikasi untuk meninjau data survey konsumen yang berhenti berlangganan dan data konsumen yang pernah berlangganan. Tujuannya untuk meningkatkan layanan yang ditawarkan perusahaan kepada konsumen. Layanan tersebut berupa paket langganan data dan panggilan dalam negeri maupun internasional. Setelah melakukan peninjauan, ditemukan bahwa tidak sedikit konsumen yang berhenti berlangganan dengan alasan yang beragam. Maka dari itu, tim analis akan melakukan analisis lebih lanjut untuk mengetahui penyebab konsumen berhenti berlangganan. Hasil analisis ini akan menjadi pertimbangan perusahaan dalam meningkatkan layanannya. Dalam membantu analisis spesifik ini, pada tahap awal analisis diperlukan metrik yang menilai seberapa besar jumlah konsumen yang berhenti berlangganan. Metrik tersebut adalah customer churn, yaitu persentase konsumen yang berhenti berlangganan dari total keseluruhan konsumen yang pernah berlangganan.  |
 
 ---
 
