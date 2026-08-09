@@ -53,7 +53,7 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 ---
 
 ## Predicting CNC Machine Downtime – Pemeliharaan Prediktif pada Mesin CNC Berbasis Data Menggunakan Machine Learning Klasifikasi Terjadi Kegagalan Mesin atau Tidak Terjadi Kegagalan Mesin
-### [[link repository](https://github.com/mhndra/predictive-analytics)]
+### [[link repository](https://github.com/mhndra/Predicting-CNC-Machine-Downtime)]
 | Teknologi  | Tujuan Proyek  |
 |------------|----------------|
 | Microsoft Fabric, Azure DevOps, Python, Pyspark  | Pembuatan proyek ini dilaksanakan untuk menghasilkan model prediksi untuk dapat digunakan di semua mesin CNC, dengan menemukan pola prediksi yang sama di semua mesin, sehingga dapat mengefisiensikan sumber daya.  |
