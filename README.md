@@ -4,11 +4,19 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 
 ---
 
+## Customer Satisfaction of an Online Travel Agent App
+### [[link repository](https://github.com/mhndra/Customer-Satisfaction)]
+| Teknologi  | Project Objectives   |
+|------------|--------------------|
+| Microsoft Fabric, Azure DevOps, Power BI, dbt, Apache Spark, Scikit-Learn, T-SQL, Python  | Terdapat keluhan pengguna aplikasi Online Travel Agent (OTA) mengalami hambatan di tiap tahap customer journey dalam aplikasi (Learn, Buy, Get, Use, Pay, Get Help). Namun, keluhan di ulasan app tersebar dan tidak terpetakan per tahap, sehingga perusahan OTA sulit mengetahui di titik mana pengalaman pengguna aplikasi paling mengecewakan. Pembuatan dashboard proyek ini membantu perusahaan memetakan keluhan pelanggan ke setiap tahap customer journey beserta topiknya, lalu memprioritaskan perbaikan pada tahap dengan keluhan terbanyak dan rating terendah, serta memantau tren rating untuk mengukur hasilnya. Dengan demikian, perusahaan memahami kepuasan pelanggan dengan terukur untuk mendukung keputusan perbaikan berbasis data, demi meningkatkan rating aplikasi dan loyalitas pelanggan.  |
+
+---
+
 ## Food Truck Network – End to End Analytics Case Study
 ### [[link repository](https://github.com/mhndra/Food-Truck-Network)]
 | Teknologi  | Company Overview   |
 |------------|--------------------|
-| Microsoft Fabric, AWS S3, Azure DevOps, Power BI, dbt, PySpark, T-SQL  | Sebuah perusahaan jaringan truk makanan menyediakan berbagai pilihan makanan yang unik dan berkualitas tinggi dengan cara yang praktis dan hemat biaya melalui pengantaran makanan yang mengutamakan penggunaan bahan-bahan segar dari supplier lokal. Saat ini, perusahaan ingin memodernisasi platform analitik perusahaan. Maka dari itu, perusahaan mulai merencanakan penggunaan Microsoft Fabric untuk menganalisis penjualannya.  |
+| Microsoft Fabric, AWS S3, Azure DevOps, Power BI, dbt, Apache Spark, T-SQL, Python  | Sebuah perusahaan jaringan truk makanan menyediakan berbagai pilihan makanan yang unik dan berkualitas tinggi dengan cara yang praktis dan hemat biaya melalui pengantaran makanan yang mengutamakan penggunaan bahan-bahan segar dari supplier lokal. Saat ini, perusahaan ingin memodernisasi platform analitik perusahaan. Maka dari itu, perusahaan mulai merencanakan penggunaan Microsoft Fabric untuk menganalisis penjualannya.  |
 
 ---
 
@@ -20,11 +28,19 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 
 ---
 
+## HR Employees – Analisis Penyebab Employee Attrition
+### [[link repository](https://github.com/mhndra/HR-Employees)]
+| Teknologi  | Problem Statement   |
+|------------|---------------------|
+| Microsoft Fabric, Azure DevOps, Power BI, dbt, T-SQL  | Sepanjang tahun 2012 hingga 2022 perusahaan bernama Atlas Labs telah memiliki karyawan dengan total 1470 karyawan dan 237 karyawan diantaranya sudah tidak bekerja di perusahaan ini. Hal ini memberikan attrition rate perusahaan menjadi 16,1%. Besarnya persentase attrition rate membuat perusahaan teknologi ini ingin memantau metrik human resources terkait penilaian karyawan. Selain itu, perusahaan ingin memahami faktor-faktor yang menyebabkan besarnya persentase attrition rate perusahaan. Maka dari itu, tim analis bersama departemen Human Resources diminta membuat dashboard untuk memantau penilaian karyawan dan menganalisis penyebab besarnya persentase attrition rate perusahaan. Adanya pemantauan metrik karyawan ini, departemen human resources dapat melakukan pengukuran penilaian performa dan kepuasan karyawan, serta mengetahui penyebab besarnya attrition rate dalam rangka mencapai tujuan untuk menurunkan attrition rate pada tahun-tahun berikutnya.  |
+
+---
+
 ## Production Cost Planning
 ### [[link repository](https://github.com/mhndra/Production-Cost-Planning)]
 | Teknologi  | Business Problem   |
 |------------|--------------------|
-| Microsoft Fabric, Azure DevOps, Power BI, dbt, PySpark, T-SQL  | Sebuah perusahaan yang bernama Tenate Industries merupakan perusahaan fiktif yang menjual suku cadang untuk oven pizza. Perusahaan ini sedang merencanakan produksi suku cadang berdasarkan permintaan pasar. Namun, produksi suku cadang tersebut harus membutuhkan biaya yang tidak sedikit. Oleh karena itu, perusahaan merencanakan biaya yang dibutuhkan terhadap produksi suku cadang yang akan dilakukan untuk memenuhi permintaan pasar. Dalam mendukung rencana tersebut, perusahaan telah mengumpulkan data harga produksi suku cadang dari supplier dan data estimasi biaya produksi suku cadang apabila dikerjakan oleh perusahaan sendiri. Seorang supply chain analyst diminta untuk menganalisis kedua data yang telah dikumpulkan tersebut. Hasil analisis akan dibuat menjadi laporan perencanaan biaya produksi suku cadang. Maka dari itu, proyek ini membuat data pipeline yang akan digunakan untuk pembersihan data perusahaan dan pembuatan laporan yang diminta. Pada akhirnya, laporan ini akan digunakan dalam menentukan keputusan antara memproduksi suku cadang oleh perusahaan sendiri atau membeli suku cadang tersebut dari supplier. Keputusan ini juga disebut dengan Make versus Buy Decision.  |
+| Microsoft Fabric, Azure DevOps, Power BI, dbt, Apache Spark, T-SQL, Python  | Sebuah perusahaan yang bernama Tenate Industries merupakan perusahaan fiktif yang menjual suku cadang untuk oven pizza. Perusahaan ini sedang merencanakan produksi suku cadang berdasarkan permintaan pasar. Namun, produksi suku cadang tersebut harus membutuhkan biaya yang tidak sedikit. Oleh karena itu, perusahaan merencanakan biaya yang dibutuhkan terhadap produksi suku cadang yang akan dilakukan untuk memenuhi permintaan pasar. Dalam mendukung rencana tersebut, perusahaan telah mengumpulkan data harga produksi suku cadang dari supplier dan data estimasi biaya produksi suku cadang apabila dikerjakan oleh perusahaan sendiri. Seorang supply chain analyst diminta untuk menganalisis kedua data yang telah dikumpulkan tersebut. Hasil analisis akan dibuat menjadi laporan perencanaan biaya produksi suku cadang. Maka dari itu, proyek ini membuat data pipeline yang akan digunakan untuk pembersihan data perusahaan dan pembuatan laporan yang diminta. Pada akhirnya, laporan ini akan digunakan dalam menentukan keputusan antara memproduksi suku cadang oleh perusahaan sendiri atau membeli suku cadang tersebut dari supplier. Keputusan ini juga disebut dengan Make versus Buy Decision.  |
 
 ---
 
@@ -36,19 +52,11 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 
 ---
 
-## HR Employees – Analisis Penyebab Employee Attrition
-### [[link repository](https://github.com/mhndra/HR-Employees)]
-| Teknologi  | Problem Statement   |
-|------------|---------------------|
-| Microsoft Fabric, Azure DevOps, Power BI, dbt, T-SQL  | Sepanjang tahun 2012 hingga 2022 perusahaan bernama Atlas Labs telah memiliki karyawan dengan total 1470 karyawan dan 237 karyawan diantaranya sudah tidak bekerja di perusahaan ini. Hal ini memberikan attrition rate perusahaan menjadi 16,1%. Besarnya persentase attrition rate membuat perusahaan teknologi ini ingin memantau metrik human resources terkait penilaian karyawan. Selain itu, perusahaan ingin memahami faktor-faktor yang menyebabkan besarnya persentase attrition rate perusahaan. Maka dari itu, tim analis bersama departemen Human Resources diminta membuat dashboard untuk memantau penilaian karyawan dan menganalisis penyebab besarnya persentase attrition rate perusahaan. Adanya pemantauan metrik karyawan ini, departemen human resources dapat melakukan pengukuran penilaian performa dan kepuasan karyawan, serta mengetahui penyebab besarnya attrition rate dalam rangka mencapai tujuan untuk menurunkan attrition rate pada tahun-tahun berikutnya.  |
-
----
-
 ## Customer Churn – Analisis Penyebab Customer Churn
 ### [[link repository](https://github.com/mhndra/Customer-Churn)]
 | Teknologi  | Business Problem   |
 |------------|--------------------|
-| Microsoft Fabric, Azure DevOps, Power BI, PySpark  | Tim analis diminta sebuah perusahaan telekomunikasi untuk meninjau data survey konsumen yang berhenti berlangganan dan data konsumen yang pernah berlangganan. Tujuannya untuk meningkatkan layanan yang ditawarkan perusahaan kepada konsumen. Layanan tersebut berupa paket langganan data dan panggilan dalam negeri maupun internasional. Setelah melakukan peninjauan, ditemukan bahwa tidak sedikit konsumen yang berhenti berlangganan dengan alasan yang beragam. Maka dari itu, tim analis akan melakukan analisis lebih lanjut untuk mengetahui penyebab konsumen berhenti berlangganan. Hasil analisis ini akan menjadi pertimbangan perusahaan dalam meningkatkan layanannya. Dalam membantu analisis spesifik ini, pada tahap awal analisis diperlukan metrik yang menilai seberapa besar jumlah konsumen yang berhenti berlangganan. Metrik tersebut adalah customer churn, yaitu persentase konsumen yang berhenti berlangganan dari total keseluruhan konsumen yang pernah berlangganan.  |
+| Microsoft Fabric, Azure DevOps, Power BI, Apache Spark, Python  | Tim analis diminta sebuah perusahaan telekomunikasi untuk meninjau data survey konsumen yang berhenti berlangganan dan data konsumen yang pernah berlangganan. Tujuannya untuk meningkatkan layanan yang ditawarkan perusahaan kepada konsumen. Layanan tersebut berupa paket langganan data dan panggilan dalam negeri maupun internasional. Setelah melakukan peninjauan, ditemukan bahwa tidak sedikit konsumen yang berhenti berlangganan dengan alasan yang beragam. Maka dari itu, tim analis akan melakukan analisis lebih lanjut untuk mengetahui penyebab konsumen berhenti berlangganan. Hasil analisis ini akan menjadi pertimbangan perusahaan dalam meningkatkan layanannya. Dalam membantu analisis spesifik ini, pada tahap awal analisis diperlukan metrik yang menilai seberapa besar jumlah konsumen yang berhenti berlangganan. Metrik tersebut adalah customer churn, yaitu persentase konsumen yang berhenti berlangganan dari total keseluruhan konsumen yang pernah berlangganan.  |
 
 ---
 
@@ -56,7 +64,7 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 ### [[link repository](https://github.com/mhndra/Predicting-CNC-Machine-Downtime)]
 | Teknologi  | Tujuan Proyek  |
 |------------|----------------|
-| Microsoft Fabric, Azure DevOps, Python, Pyspark  | Pembuatan proyek ini dilaksanakan untuk menghasilkan model prediksi untuk dapat digunakan di semua mesin CNC, dengan menemukan pola prediksi yang sama di semua mesin, sehingga dapat mengefisiensikan sumber daya.  |
+| Microsoft Fabric, Azure DevOps, Python, Apache Spark, Python  | Pembuatan proyek ini dilaksanakan untuk menghasilkan model prediksi untuk dapat digunakan di semua mesin CNC, dengan menemukan pola prediksi yang sama di semua mesin, sehingga dapat mengefisiensikan sumber daya.  |
 
 ---
 
@@ -64,7 +72,7 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 ### [[link repository](https://github.com/mhndra/Invoice-Reconciliation)]
 | Teknologi  | Business Problem   |
 |------------|--------------------|
-| Microsoft Fabric, Azure AI Document Intelligence Studio, Azure DevOps, PySpark  | Seorang klien memulai meninjau daftar rincian barang yang telah dibeli untuk mendapatkan informasi terkait pengeluaran setiap bulannya. Sejak bulan April tahun 2025, klien telah mengumpulkan daftar rincian pembelian barang, tetapi pemrosesan menjadi laporan pengeluarannya dilakukan secara manual dikarenakan daftar rincian pembelian barang masih berbentuk file berekstensi .pdf. Oleh karena itu, seorang teknisi data diminta membuat alur data untuk proses pengumpulan datanya agar siap digunakan sebagai laporan pengeluaran setiap bulannya. Maka dari itu, proyek ini akan membuat alur data agar mempermudah klien dalam mengumpulkan data dari daftar rincian pembelian barang setiap bulan.  |
+| Microsoft Fabric, Azure AI Document Intelligence Studio, Azure DevOps, Apache Spark, Python  | Seorang klien memulai meninjau daftar rincian barang yang telah dibeli untuk mendapatkan informasi terkait pengeluaran setiap bulannya. Sejak bulan April tahun 2025, klien telah mengumpulkan daftar rincian pembelian barang, tetapi pemrosesan menjadi laporan pengeluarannya dilakukan secara manual dikarenakan daftar rincian pembelian barang masih berbentuk file berekstensi .pdf. Oleh karena itu, seorang teknisi data diminta membuat alur data untuk proses pengumpulan datanya agar siap digunakan sebagai laporan pengeluaran setiap bulannya. Maka dari itu, proyek ini akan membuat alur data agar mempermudah klien dalam mengumpulkan data dari daftar rincian pembelian barang setiap bulan.  |
 
 ---
 
