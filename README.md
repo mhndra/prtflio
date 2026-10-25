@@ -4,19 +4,19 @@ Portofolio ini diperuntukkan untuk menunjukkan hasil pengerjaan proyek saya dala
 
 ---
 
-## Customer Satisfaction of an Online Travel Agent App
-### [[link repository](https://github.com/mhndra/Customer-Satisfaction)]
-| Teknologi  | Project Objectives   |
-|------------|--------------------|
-| Microsoft Fabric, Azure DevOps, Power BI, dbt, OpenAI API, Apache Spark, Scikit-Learn, T-SQL, Python  | Terdapat keluhan pengguna aplikasi Online Travel Agent (OTA) mengalami hambatan di tiap tahap customer journey dalam aplikasi (Learn, Buy, Get, Use, Pay, Get Help). Namun, keluhan di ulasan app tersebar dan tidak terpetakan per tahap, sehingga perusahan OTA sulit mengetahui di titik mana pengalaman pengguna aplikasi paling mengecewakan. Pembuatan dashboard proyek ini membantu perusahaan memetakan keluhan pelanggan ke setiap tahap customer journey beserta topiknya, lalu memprioritaskan perbaikan pada tahap dengan keluhan terbanyak dan rating terendah, serta memantau tren rating untuk mengukur hasilnya. Dengan demikian, perusahaan memahami kepuasan pelanggan dengan terukur untuk mendukung keputusan perbaikan berbasis data, demi meningkatkan rating aplikasi dan loyalitas pelanggan.  |
-
----
-
 ## Food Truck Network – End to End Analytics Case Study
 ### [[link repository](https://github.com/mhndra/Food-Truck-Network)]
 | Teknologi  | Company Overview   |
 |------------|--------------------|
 | Microsoft Fabric, AWS S3, Azure DevOps, Power BI, dbt, Apache Spark, T-SQL, Python  | Sebuah perusahaan jaringan truk makanan menyediakan berbagai pilihan makanan yang unik dan berkualitas tinggi dengan cara yang praktis dan hemat biaya melalui pengantaran makanan yang mengutamakan penggunaan bahan-bahan segar dari supplier lokal. Saat ini, perusahaan ingin memodernisasi platform analitik perusahaan. Maka dari itu, perusahaan mulai merencanakan penggunaan Microsoft Fabric untuk menganalisis penjualannya.  |
+
+---
+
+## Customer Satisfaction of an Online Travel Agent App
+### [[link repository](https://github.com/mhndra/Customer-Satisfaction)]
+| Teknologi  | Project Objectives   |
+|------------|--------------------|
+| Microsoft Fabric, Azure DevOps, Power BI, dbt, OpenAI API, Apache Spark, Scikit-Learn, T-SQL, Python  | Terdapat keluhan pengguna aplikasi Online Travel Agent (OTA) mengalami hambatan di tiap tahap customer journey dalam aplikasi (Learn, Buy, Get, Use, Pay, Get Help). Namun, keluhan di ulasan app tersebar dan tidak terpetakan per tahap, sehingga perusahan OTA sulit mengetahui di titik mana pengalaman pengguna aplikasi paling mengecewakan. Pembuatan dashboard proyek ini membantu perusahaan memetakan keluhan pelanggan ke setiap tahap customer journey beserta topiknya, lalu memprioritaskan perbaikan pada tahap dengan keluhan terbanyak dan rating terendah, serta memantau tren rating untuk mengukur hasilnya. Dengan demikian, perusahaan memahami kepuasan pelanggan dengan terukur untuk mendukung keputusan perbaikan berbasis data, demi meningkatkan rating aplikasi dan loyalitas pelanggan.  |
 
 ---
 
